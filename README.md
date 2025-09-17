@@ -1,11 +1,6 @@
 <img src="https://i.postimg.cc/SR8Zgrzt/apostel1337.png">
 
 ---
-<p align="center">
-  <a href="https://soon.tm">site</a> • 
-  <a href="https://discord.gg/gF6v7Bcrqd">discord</a> • 
-  <a href="https://roblox.com">roblox</a>
-</p>
 
 ### Languages:
 
